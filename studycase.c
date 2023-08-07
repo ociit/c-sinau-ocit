@@ -32,7 +32,7 @@ printf ("mau pesan lagi ? (ya/tidak) : ");
 scanf ("%s", &pilihlagi);
 
 if (pilihlagi == ya) {
-            //INI DIISI APA YA ? biar programnya bisa balek lagi ke awal
+printf ("yaya");
 } else if (pilihlagi == tidak) {
     printf ("terimakasih");
 }
